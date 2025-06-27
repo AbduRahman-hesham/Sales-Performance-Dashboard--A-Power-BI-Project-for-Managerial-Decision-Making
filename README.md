@@ -198,7 +198,7 @@ For feedback, collaboration, or inquiries:
 ---
 
 ## 📸 Note:
-All visuals above are screenshots from the actual Power BI dashboard. For a live experience, view the report in Power BI Service (if published).
+All visuals above are screenshots from the actual Power BI dashboard.
 
 
 
